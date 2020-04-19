@@ -1,4 +1,4 @@
-import os, time
+import os
 from pathlib import Path
 
 DIRECTORIES = {
