@@ -2,4 +2,4 @@
 
 ### CMA's Personal Project
 
-###### Python script to organize files to categorize with extensions and date
+###### Python script to organize files by categorizing with extensions and date
